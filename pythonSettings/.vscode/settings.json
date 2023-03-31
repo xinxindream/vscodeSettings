@@ -1,0 +1,4 @@
+{
+    "python.formatting.provider": "yapf",   //启用yapf，格式化代码（空格），alt+shift+f
+    "python.linting.flake8Enabled": true,   //启用flake8，检查语法错误
+}
